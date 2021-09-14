@@ -1,0 +1,30 @@
+body {
+  background-color: #911F27;
+}
+h1 {
+  font-family: monospace;
+  color: #F7F6F2;
+}
+hr {
+  border-style: none;
+  border-top-style: groove;
+  border-color: #2D46B9;
+  width: auto;
+  border-width: thick;
+}
+a {
+  font-family: monospace;
+}
+h3 {
+  color:#9c824a;
+}
+td {
+  font-family: monospace;
+  color: #FAFF00;
+}
+img {
+  width: 200px;
+}
+#AB {
+  width: 250px;
+}
